@@ -1,0 +1,22 @@
+{
+  "name": "origindesign/mailchimp-api",
+  "description": "Mail Chimp API - Custom Drupal 8 Module for integration with Mail Chimp API v3",
+  "type": "drupal-module",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Lindsay Wilson",
+      "email": "lwilson@origindesign.ca"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "guzzlehttp/guzzle": "^6.2.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Mailchimp\\": "src/",
+      "Mailchimp\\http\\": "src/http/"
+    }
+  }
+}

@@ -1,0 +1,4 @@
+services:
+  # A service to make a connection to Mail Chimp
+  mailchimp_api.mailchimp_lists:
+    class: Drupal\mailchimp_api\MailchimpLists
