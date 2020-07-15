@@ -1,6 +1,6 @@
-name: 'Create Send - Campaign Monitor API'
+name: 'Mail Chimp API'
 type: module
-description: 'Implements Campaign Monitors php library'
+description: 'Implements Mail Chimps php library'
 package: Custom
 core_version_requirement: ^8.8 || ^9
 version: '8.x-2.0'
