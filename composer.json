@@ -1,7 +1,7 @@
 {
   "name": "origindesign/mailchimp_api",
   "description": "Mail Chimp API - Custom Drupal 8 Module for integration with Mail Chimp API v3",
-  "type": "drupal-module",
+  "type": "drupal-custom-module",
   "license": "MIT",
   "authors": [
     {
